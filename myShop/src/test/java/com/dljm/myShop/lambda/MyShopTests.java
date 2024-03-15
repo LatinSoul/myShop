@@ -1,10 +1,10 @@
-package com.dljm.myShop;
+package com.dljm.myShop.lambda;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MyShopApplicationTests {
+class MyShopTests {
 
 	@Test
 	void contextLoads() {
